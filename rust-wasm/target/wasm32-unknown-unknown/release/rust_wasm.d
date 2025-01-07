@@ -1,0 +1,1 @@
+C:\Users\mariu\Desktop\VSCode\klesbutikk\Clothing-Store-Project\rust-wasm\target\wasm32-unknown-unknown\release\rust_wasm.wasm: C:\Users\mariu\Desktop\VSCode\klesbutikk\Clothing-Store-Project\rust-wasm\src\lib.rs
